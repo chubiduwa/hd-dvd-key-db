@@ -4,18 +4,20 @@
 
 The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD titles](https://www.avsforum.com/threads/complete-list-of-hd-dvd-titles-exclusives-in-red.1135903/) (last updated 6/25/12; Dragon's Lair is left out, as it is not encrypted), read from the [Wayback Machine copy of 21 June 2025](https://web.archive.org/web/20250621195354/https://www.avsforum.com/threads/complete-list-of-hd-dvd-titles-exclusives-in-red.1135903/).
 
-✅ means KEYDB.cfg has a key for that film. The key may be for another region's disc (EU, UK, DE…), and a multi-disc set counts if any of its discs has one. ⬜ means it has no key.
+✅ means KEYDB.cfg has a key for that film. The key may be for another region's disc (EUR, UK, DE…), and a multi-disc set counts if any of its discs has one. ⬜ means it has no key.
+
+The flags show the regions whose discs have a key, where KEYDB.cfg names the region (many entries do not): 🇺🇸 US, 🇪🇺 EUR, 🇬🇧 UK, 🇩🇪 DE, 🇫🇷 FR, 🇳🇱 NL, 🇯🇵 JP, 🇦🇺 AU.
 
 [0–9](#09-66) · [A](#a-1226) · [B](#b-2342) · [C](#c-1324) · [D](#d-1934) · [E](#e-813) · [F](#f-1627) · [G](#g-616) · [H](#h-1834) · [I](#i-610) · [J](#j-27) · [K](#k-36) · [L](#l-1225) · [M](#m-2336) · [N](#n-714) · [O](#o-610) · [P](#p-1019) · [Q](#q-01) · [R](#r-518) · [S](#s-2952) · [T](#t-1222) · [U](#u-610) · [V](#v-27) · [W](#w-1020) · [Y](#y-12) · [Z](#z-12)
 
 ## 0–9 (6/6)
 
 - ✅ 12 Monkeys
-- ✅ 16 Blocks
+- ✅ 16 Blocks (🇪🇺)
 - ✅ 2 Fast 2 Furious
-- ✅ 2001 - A Space Odyssey
-- ✅ 300
-- ✅ (The) 40-Year-Old Virgin
+- ✅ 2001 - A Space Odyssey (🇺🇸)
+- ✅ 300 (🇪🇺 🇺🇸)
+- ✅ (The) 40-Year-Old Virgin (🇺🇸)
 
 ## A (12/26)
 
@@ -32,7 +34,7 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ✅ Anchorman - The Legend of Ron Burgundy
 - ✅ Animal House
 - ✅ (The) Ant Bully
-- ✅ Apollo 13
+- ✅ Apollo 13 (🇪🇺 🇺🇸)
 - ⬜ Apples & Oranges
 - ⬜ Appleseed Ex Machina
 - ⬜ Aquarium Impressions
@@ -51,7 +53,7 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ✅ Babel
 - ✅ Backdraft
 - ✅ Balls Of Fury
-- ✅ Batman Begins
+- ✅ Batman Begins (🇩🇪 🇪🇺 🇬🇧)
 - ⬜ Battle of the Bulge
 - ✅ Battlestar Galactica - Season One
 - ✅ Beerfest
@@ -61,7 +63,7 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Best of GetOut! Volume 2
 - ⬜ Best of World Report Volume 1
 - ⬜ Best of World Report Volume 2
-- ✅ (The) Big Lebowski
+- ✅ (The) Big Lebowski (🇺🇸)
 - ⬜ Bikini Destination: Triple Fantasy
 - ⬜ Bikini Destinations: Hawaii
 - ⬜ Bikini Destinations: Lake Tahoe
@@ -69,61 +71,61 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Billy Madison
 - ⬜ Birthrite
 - ⬜ Black Christmas
-- ✅ Black Rain
+- ✅ Black Rain (🇪🇺)
 - ✅ Black Snake Moan
-- ✅ Blade Runner
+- ✅ Blade Runner (🇪🇺 🇺🇸)
 - ⬜ Blades of Glory
-- ✅ Blazing Saddles
-- ✅ Blood Diamond
+- ✅ Blazing Saddles (🇺🇸)
+- ✅ Blood Diamond (🇺🇸)
 - ✅ (The) Bone Collector
 - ⬜ Bonnie and Clyde
-- ✅ Born on the Fourth of July
-- ✅ (The) Bourne Identity
-- ✅ (The) Bourne Supremacy
-- ✅ (The) Bourne Ultimatum
+- ✅ Born on the Fourth of July (🇪🇺)
+- ✅ (The) Bourne Identity (🇪🇺 🇺🇸)
+- ✅ (The) Bourne Supremacy (🇪🇺 🇺🇸)
+- ✅ (The) Bourne Ultimatum (🇺🇸)
 - ⬜ Brave One, the
-- ✅ Breach
+- ✅ Breach (🇺🇸)
 - ⬜ (The) Breakfast Club
 - ✅ (The) Break-Up
-- ✅ Brokeback Mountain
+- ✅ Brokeback Mountain (🇺🇸)
 - ⬜ Bruce Almighty
 - ⬜ Bubble
 - ⬜ Bulletproof
-- ✅ Bullitt
+- ✅ Bullitt (🇺🇸)
 
 ## C (13/24)
 
 - ✅ Caddyshack
 - ⬜ Carlito's Way
 - ✅ Carlito's Way: Rise To Power
-- ✅ Casablanca
-- ✅ Casino
+- ✅ Casablanca (🇺🇸)
+- ✅ Casino (🇺🇸)
 - ⬜ Cat People
 - ⬜ Cecilia & Bryn at Glyndebourne: Arias & Duets
 - ⬜ Channels
-- ✅ Charlie & the Chocolate Factory
+- ✅ Charlie & the Chocolate Factory (🇪🇺)
 - ⬜ Chicago & Earth, Wind & Fire - Live at the Greek Theatre
-- ✅ Children of Men
+- ✅ Children of Men (🇪🇺 🇺🇸)
 - ✅ (A) Christmas Story
-- ✅ (The) Chronicles of Riddick
+- ✅ (The) Chronicles of Riddick (🇪🇺)
 - ⬜ Chronos
-- ✅ Cinderella Man
+- ✅ Cinderella Man (🇺🇸)
 - ⬜ (A) Clear and Present Danger
-- ✅ Clerks II
+- ✅ Clerks II (🇺🇸)
 - ⬜ (A) Clockwork Orange
 - ⬜ Coming to America
-- ✅ Constantine
+- ✅ Constantine (🇪🇺 🇬🇧)
 - ⬜ (The) Contract
 - ✅ Corpse Bride
-- ✅ (The) Cowboys
+- ✅ (The) Cowboys (🇪🇺)
 - ⬜ CREAM, Royal Albert Hall: London May 2-3-5-6 2005
 
 ## D (19/34)
 
-- ✅ Dante's Peak
+- ✅ Dante's Peak (🇪🇺)
 - ⬜ Darkman
 - ⬜ Dawn of the Dead
-- ✅ Daylight
+- ✅ Daylight (🇪🇺)
 - ✅ Dazed & Confused
 - ⬜ Dead Silence
 - ⬜ Deadlands 2
@@ -131,7 +133,7 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ✅ (The) Deer Hunter
 - ✅ Deliverance
 - ⬜ Demo: South Park - Good Times With Weapons
-- ✅ (The) Departed
+- ✅ (The) Departed (🇪🇺)
 - ✅ Derailed
 - ⬜ Digital Video Essentials: HD Basics
 - ⬜ Digital Video Essentials HD (HD DVD + DVD Combo Disc)
@@ -139,17 +141,17 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Discoveries...America Music New England
 - ⬜ Discoveries...America Music Sunrise, Sunset
 - ⬜ Discoveries...Argentina Patagonia
-- ✅ Discovery Atlas: Australia Revealed
-- ✅ Discovery Atlas: Brazil Revealed
-- ✅ Discovery Atlas: China Revealed
-- ✅ Discovery Atlas: Italy Revealed
+- ✅ Discovery Atlas: Australia Revealed (🇺🇸)
+- ✅ Discovery Atlas: Brazil Revealed (🇺🇸)
+- ✅ Discovery Atlas: China Revealed (🇺🇸)
+- ✅ Discovery Atlas: Italy Revealed (🇺🇸)
 - ⬜ Dispatch: Zimbabwe - Live at Madison Square Garden
-- ✅ District B13
-- ✅ Disturbia
+- ✅ District B13 (🇪🇺)
+- ✅ Disturbia (🇪🇺)
 - ⬜ Dog Day Afternoon
 - ✅ Doom
-- ✅ Dragonheart
-- ✅ Dreamgirls
+- ✅ Dragonheart (🇺🇸)
+- ✅ Dreamgirls (🇪🇺)
 - ⬜ Dreaming Arizona
 - ⬜ Dreaming Nevada
 - ✅ (The) Dukes of Hazzard
@@ -159,8 +161,8 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 
 - ⬜ Eagles: Farewell 1 Tour - Live From Melbourne
 - ✅ Eastern Promises
-- ✅ Elizabeth
-- ✅ Elizabeth: The Golden Age
+- ✅ Elizabeth (🇪🇺 🇺🇸)
+- ✅ Elizabeth: The Golden Age (🇺🇸)
 - ✅ End of Days
 - ⬜ Enron: The Smartest Guys in the Room
 - ✅ Enter the Dragon
@@ -173,10 +175,10 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 
 ## F (16/27)
 
-- ✅ Face Off
+- ✅ Face Off (🇺🇸)
 - ✅ Failure to Launch
-- ✅ Fast & Furious
-- ✅ (The) Fast & The Furious: Tokyo Drift
+- ✅ Fast & Furious (🇪🇺)
+- ✅ (The) Fast & The Furious: Tokyo Drift (🇪🇺 🇬🇧)
 - ✅ Fast Times at Ridgemont High
 - ✅ Fear & Loathing in Las Vegas
 - ⬜ Feast
@@ -198,14 +200,14 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Freedom Writers
 - ✅ Friday Night Lights
 - ✅ (The) Frighteners
-- ✅ (The) Fugitive
+- ✅ (The) Fugitive (🇦🇺 🇪🇺)
 - ✅ Full Metal Jacket
 
 ## G (6/16)
 
-- ✅ Galapagos
+- ✅ Galapagos (🇺🇸)
 - ⬜ Galaxina
-- ✅ (The) Game
+- ✅ (The) Game (🇪🇺)
 - ⬜ (The) Getaway (1972) ¹
 - ⬜ (The) Getaway (1994) ¹
 - ⬜ Girls Gone Wild: Baby Bash Live & Uncensored
@@ -213,8 +215,8 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Girls Gone Wild: Sexiest Moments Ever, Vol. 2
 - ✅ Gods and Generals
 - ⬜ Good Night, and Good Luck
-- ✅ (The) Good Shepherd
-- ✅ Goodfellas
+- ✅ (The) Good Shepherd (🇺🇸)
+- ✅ Goodfellas (🇪🇺)
 - ⬜ Gothika
 - ✅ Grand Prix
 - ⬜ Guitarscape Planet
@@ -223,15 +225,15 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 ## H (18/34)
 
 - ✅ Half Baked
-- ✅ Happy Feet
+- ✅ Happy Feet (🇺🇸)
 - ✅ Happy Gilmore
 - ⬜ Harlem Globetrotters: A Gift for the Troops
-- ✅ Harry Potter and the Chamber of Secrets
-- ✅ Harry Potter and the Goblet of Fire
-- ✅ Harry Potter and the Order of the Phoenix
-- ✅ Harry Potter and the Prisoner of Azkaban
-- ✅ Harry Potter and the Sorcerer's Stone
-- ✅ Harsh Times
+- ✅ Harry Potter and the Chamber of Secrets (🇩🇪 🇺🇸)
+- ✅ Harry Potter and the Goblet of Fire (🇬🇧 🇺🇸)
+- ✅ Harry Potter and the Order of the Phoenix (🇪🇺)
+- ✅ Harry Potter and the Prisoner of Azkaban (🇩🇪 🇺🇸)
+- ✅ Harry Potter and the Sorcerer's Stone (🇩🇪 🇺🇸)
+- ✅ Harsh Times (🇺🇸)
 - ⬜ HD HQV Benchmark
 - ⬜ HDCandy
 - ⬜ HDScape: Antartica Dreaming
@@ -245,14 +247,14 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Heart - Alive in Seattle
 - ⬜ (The) Heartbreak Kid
 - ✅ Heroes - Season 1
-- ✅ (The) Hitcher
+- ✅ (The) Hitcher (🇬🇧)
 - ✅ Hollywoodland
-- ✅ (The) Host
-- ✅ Hot Fuzz
+- ✅ (The) Host (🇬🇧)
+- ✅ Hot Fuzz (🇬🇧 🇺🇸)
 - ✅ Hot Rod
-- ✅ House of Wax
-- ✅ How The Grinch Stole Christmas
-- ✅ Hulk
+- ✅ House of Wax (🇩🇪)
+- ✅ How The Grinch Stole Christmas (🇺🇸)
+- ✅ Hulk (🇪🇺)
 - ⬜ (The) Hunt for Red October
 - ⬜ (The) Hurricane
 - ⬜ Hustle and Flow
@@ -261,10 +263,10 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 
 - ⬜ I Am Legend
 - ✅ I Now Pronounce You Chuck & Larry
-- ✅ IMAX: Blue Planet
+- ✅ IMAX: Blue Planet (🇺🇸)
 - ⬜ In Good Company
 - ⬜ In the Valley of Elah
-- ✅ Inside Man
+- ✅ Inside Man (🇪🇺)
 - ✅ (The) Interpreter
 - ✅ Into the Wild
 - ⬜ (The) Invasion
@@ -274,7 +276,7 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 
 - ⬜ Jailhouse Rock
 - ⬜ James Taylor: A Musicares Person of the Year Tribute
-- ✅ Jarhead
+- ✅ Jarhead (🇪🇺)
 - ⬜ Jazz Standards
 - ⬜ (The) Jerk
 - ✅ Jet Li's Fearless
@@ -282,16 +284,16 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 
 ## K (3/6)
 
-- ✅ King Kong
+- ✅ King Kong (🇪🇺)
 - ⬜ King of California
 - ⬜ (The) Kingdom
-- ✅ Kiss Kiss Bang Bang
-- ✅ Knocked Up
+- ✅ Kiss Kiss Bang Bang (🇪🇺)
+- ✅ Knocked Up (🇪🇺)
 - ⬜ Kukahi: Keali i Reichel Live In Concert (2007)
 
 ## L (12/25)
 
-- ✅ Lady in the Water
+- ✅ Lady in the Water (🇪🇺)
 - ✅ (The) Lake House
 - ✅ Land of the Dead
 - ✅ Lara Croft - Tomb Raider
@@ -299,10 +301,10 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ✅ (The) Last Starfighter
 - ⬜ Led Zeppelin: The Song Remains the Same
 - ✅ Lethal Weapon
-- ✅ Lethal Weapon 2
+- ✅ Lethal Weapon 2 (🇺🇸)
 - ✅ Letters from Iwo Jima
 - ⬜ Liar Liar
-- ✅ License to Wed
+- ✅ License to Wed (🇪🇺)
 - ⬜ Living Landscapes: California Redwoods
 - ⬜ Living Landscapes: Fall In New England
 - ⬜ Living Landscapes HD Bali
@@ -324,31 +326,31 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Manilow Live!
 - ✅ March of the Penguins
 - ✅ (The) Matador
-- ✅ (The) Matrix
-- ✅ (The) Matrix Reloaded
-- ✅ (The) Matrix Revolutions
+- ✅ (The) Matrix (🇪🇺 🇺🇸)
+- ✅ (The) Matrix Reloaded (🇪🇺 🇺🇸)
+- ✅ (The) Matrix Revolutions (🇪🇺 🇺🇸)
 - ✅ Meet Joe Black
-- ✅ Meet the Fockers
+- ✅ Meet the Fockers (🇺🇸)
 - ✅ Meet the Parents
-- ✅ Mercury Rising
+- ✅ Mercury Rising (🇪🇺)
 - ⬜ Method Man: Live From The Sunset Strip
-- ✅ Miami Vice
+- ✅ Miami Vice (🇪🇺 🇬🇧)
 - ✅ Michael Clayton
 - ⬜ Midnight Run
 - ⬜ (A) Midsummer Night's Dream
 - ⬜ (A) Mighty Heart
-- ✅ Million Dollar Baby
-- ✅ Mission: Impossible
-- ✅ Mission Impossible 2
-- ✅ Mission Impossible III
+- ✅ Million Dollar Baby (🇺🇸)
+- ✅ Mission: Impossible (🇪🇺)
+- ✅ Mission Impossible 2 (🇪🇺)
+- ✅ Mission Impossible III (🇪🇺)
 - ⬜ Mobsters
-- ✅ Monty Python's The Meaning of Life
+- ✅ Monty Python's The Meaning of Life (🇺🇸)
 - ⬜ (The) Moody Blues: Lovely To See You Live
 - ⬜ Motorhead: Stage Fright
 - ⬜ Mozart - Die Zauberflote (The Magic Flute)
 - ✅ Mr. Bean's Holiday
-- ✅ (The) Mummy
-- ✅ (The) Mummy Returns
+- ✅ (The) Mummy (🇫🇷)
+- ✅ (The) Mummy Returns (🇫🇷)
 - ⬜ Music and Lyrics
 - ✅ Mutiny on the Bounty (1962)
 - ⬜ My Favorite Brunette / Son of Paleface
@@ -359,7 +361,7 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 ## N (7/14)
 
 - ✅ Nacho Libre
-- ✅ National Geographic - Relentless Enemies
+- ✅ National Geographic - Relentless Enemies (🇺🇸)
 - ⬜ National Lampoon's Christmas Vacation
 - ⬜ Nature's Colors with the World's Greatest Music
 - ⬜ Nature's Journey
@@ -368,42 +370,42 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ✅ Nine Inch Nails Live - Beside You in Time
 - ⬜ Nip/Tuck - The Complete Fourth Season
 - ⬜ No Reservations
-- ✅ Norbit
+- ✅ Norbit (🇪🇺)
 - ✅ Notting Hill
 - ⬜ (The) Nutty Professor
 - ✅ Nutty Professor 2: The Klumps
 
 ## O (6/10)
 
-- ✅ Ocean's Eleven
-- ✅ Ocean's Thirteen
-- ✅ Ocean's Twelve
-- ✅ Old School
+- ✅ Ocean's Eleven (🇺🇸)
+- ✅ Ocean's Thirteen (🇺🇸)
+- ✅ Ocean's Twelve (🇺🇸)
+- ✅ Old School (🇺🇸)
 - ⬜ (The) Omega Man
 - ⬜ One Last Thing
 - ⬜ One Missed Call
 - ⬜ One Six Right
 - ✅ Out for Justice
-- ✅ Out of Sight
+- ✅ Out of Sight (🇪🇺)
 
 ## P (10/19)
 
 - ⬜ P2
-- ✅ Pans Labyrinth
+- ✅ Pans Labyrinth (🇺🇸)
 - ⬜ Pat Metheny Group: The Way Up - Live
 - ⬜ Patch Adams
 - ⬜ Patriot Games
-- ✅ Payback - Straight Up - The Director's Cut
+- ✅ Payback - Straight Up - The Director's Cut (🇺🇸)
 - ✅ (The) Perfect Storm
 - ✅ (The) Phantom of the Opera
-- ✅ (The) Pianist
+- ✅ (The) Pianist (🇬🇧)
 - ⬜ Picture This
 - ✅ Pitch Black (Unrated)
-- ✅ Planet Earth - The Complete BBC Series
+- ✅ Planet Earth - The Complete BBC Series (🇺🇸)
 - ⬜ Planet Earth (US Version)
-- ✅ (The) Polar Express
-- ✅ Poseidon
-- ✅ Pride & Prejudice
+- ✅ (The) Polar Express (🇪🇺)
+- ✅ Poseidon (🇪🇺)
+- ✅ Pride & Prejudice (🇪🇺 🇺🇸)
 - ⬜ P.S. I Love You
 - ⬜ Pulse
 - ⬜ Purple Rain
@@ -439,30 +441,30 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Santana: Hymns for Peace - Live at Montreux 2004
 - ✅ (A) Scanner Darkly
 - ✅ Scary Movie 4
-- ✅ Scent of a Woman
+- ✅ Scent of a Woman (🇺🇸)
 - ✅ School for Scoundrels
 - ✅ Scooby-Doo - The Movie
-- ✅ (The) Scorpion King
-- ✅ Sea of Love
-- ✅ Seabiscuit
-- ✅ (The) Searchers
+- ✅ (The) Scorpion King (🇪🇺)
+- ✅ Sea of Love (🇺🇸)
+- ✅ Seabiscuit (🇺🇸)
+- ✅ (The) Searchers (🇪🇺 🇺🇸)
 - ⬜ Seed of Chucky
-- ✅ Serenity
-- ✅ Shaun of the Dead
+- ✅ Serenity (🇪🇺)
+- ✅ Shaun of the Dead (🇺🇸)
 - ⬜ (The) Shining
 - ✅ Shooter
 - ⬜ Shrek the Third
 - ⬜ Shuttle Discovery
 - ⬜ Single-Handed Fly Rod Casting Using Spey Casting Techniques
-- ✅ (The) Skeleton Key
-- ✅ Sky Captain
+- ✅ (The) Skeleton Key (🇪🇺)
+- ✅ Sky Captain (🇺🇸)
 - ✅ Sleepy Hollow
 - ✅ Slither
 - ⬜ Smallville - The Complete Fifth Season
 - ⬜ Smallville - The Complete Sixth Season
 - ⬜ Smokey and the Bandit
-- ✅ Smokin' Aces
-- ✅ Sneakers
+- ✅ Smokin' Aces (🇺🇸)
+- ✅ Sneakers (🇺🇸)
 - ⬜ (The) Sopranos - Season 6, Part 1
 - ⬜ (The) Sopranos - Season 6, Part 2
 - ⬜ Space Cowboys
@@ -473,8 +475,8 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Spey Casting Instruction Volumes 1 & 2 Novice/ Intermediate
 - ✅ Spy Game
 - ⬜ Stained Glass Christmas With Heavenly Carols
-- ✅ Star Trek The Original Series - The Complete First Season
-- ✅ Stardust
+- ✅ Star Trek The Original Series - The Complete First Season (🇺🇸)
+- ✅ Stardust (🇺🇸)
 - ✅ (The) Sting
 - ⬜ Strauss: Die Fledermaus
 - ⬜ Streets of Fire
@@ -482,11 +484,11 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ Sum of All Fears
 - ⬜ Sunrise Earth: American Sunrises Vol 1
 - ⬜ Sunrise Earth: America's Greatest Sunrises
-- ✅ Superman - The Movie
+- ✅ Superman - The Movie (🇬🇧)
 - ✅ Superman II - The Richard Donner Cut
-- ✅ Superman Returns
+- ✅ Superman Returns (🇪🇺)
 - ✅ Swordfish
-- ✅ Syriana
+- ✅ Syriana (🇪🇺)
 
 ## T (12/22)
 
@@ -498,38 +500,38 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ⬜ That's Entertainment!
 - ⬜ That's Entertainment 2
 - ⬜ That's Entertainment III
-- ✅ (The) Thing
+- ✅ (The) Thing (🇬🇧)
 - ⬜ Things we Lost in the Fire
 - ⬜ Timecop
 - ✅ TMNT
-- ✅ Top Gun
+- ✅ Top Gun (🇺🇸)
 - ⬜ Toto: Live in Amsterdam
-- ✅ Trading Places
+- ✅ Trading Places (🇺🇸)
 - ✅ Traffic
-- ✅ Training Day
-- ✅ Transformers
-- ✅ Tremors
-- ✅ Troy
+- ✅ Training Day (🇪🇺)
+- ✅ Transformers (🇳🇱 🇺🇸)
+- ✅ Tremors (🇪🇺)
+- ✅ Troy (🇪🇺)
 - ⬜ Twilight Zone - The Movie
 - ✅ Twister
 
 ## U (6/10)
 
-- ✅ U2 - Rattle & Hum
+- ✅ U2 - Rattle & Hum (🇺🇸)
 - ✅ U-571
 - ⬜ UFO: Showtime
 - ⬜ Ultimate Force (2006)
 - ⬜ Uncommon Bach
 - ⬜ Uncommon Mozart
-- ✅ Under Siege
-- ✅ Unforgiven
-- ✅ Unleashed
+- ✅ Under Siege (🇺🇸)
+- ✅ Unforgiven (🇪🇺)
+- ✅ Unleashed (🇺🇸)
 - ✅ (The) Untouchables
 
 ## V (2/7)
 
-- ✅ V for Vendetta
-- ✅ Van Helsing
+- ✅ V for Vendetta (🇩🇪 🇪🇺)
+- ✅ Van Helsing (🇪🇺)
 - ⬜ Verdi: Il trovatore
 - ⬜ View From Space With Heavenly Music
 - ⬜ Viva Las Vegas
@@ -546,16 +548,16 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 - ✅ Waterworld
 - ⬜ (The) Way to Paradise
 - ⬜ We Are Marshall
-- ✅ We Were Soldiers
+- ✅ We Were Soldiers (🇺🇸)
 - ✅ (The) Wedding Date
-- ✅ What Dreams May Come
+- ✅ What Dreams May Come (🇺🇸)
 - ⬜ White Noise
 - ⬜ White Noise 2
 - ⬜ (The) Wicker Man
 - ⬜ (The) Wild Bunch
 - ✅ Willy Wonka & The Chocolate Factory
-- ✅ Wolf Creek
-- ✅ World Trade Center
+- ✅ Wolf Creek (🇺🇸)
+- ✅ World Trade Center (🇪🇺)
 - ✅ (The) World's Fastest Indian
 - ⬜ Wyatt Earp
 
@@ -566,7 +568,7 @@ The titles are the 483 US releases of AVS Forum's [Complete list of HD DVD title
 
 ## Z (1/2)
 
-- ✅ Zodiac
+- ✅ Zodiac (🇺🇸)
 - ⬜ Zombie Farm
 
 ¹ KEYDB.cfg has one key named "Getaway", with no year or region: it could be either film, so neither is checked.
